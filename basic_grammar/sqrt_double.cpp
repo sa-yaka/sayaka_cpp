@@ -8,8 +8,8 @@ int main()
 	cin >> area;
 	double side;       
 	side = sqrt(area);      // double sqrt (double) ，sqrt() 计算平方根
-	cout << "That's he equivalebt of a square" << side 
-		 << "feet to the side." << endl
+	cout << "That's he equivalebt of a square " << side 
+		 << " feet to the side." << endl
 	     << "How fascinating" << endl;
 	return 0;
  }

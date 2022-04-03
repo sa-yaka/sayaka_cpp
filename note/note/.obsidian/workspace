@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "0c13d4019cdc7a19",
+    "type": "split",
+    "children": [
+      {
+        "id": "94865a0722de9776",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C Plus Plus.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaa3bfcbe49011bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb76d283404fd40a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069dca1be2fce073",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc462d684b15f0bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44120c8a5e55ce66",
+    "type": "split",
+    "children": [
+      {
+        "id": "35cd5b2474ed3530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccac2329dcbcc4a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Plus Plus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e0c9b0fa5da4ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C Plus Plus.md"
+              }
+            }
+          },
+          {
+            "id": "5f36f343059f4850",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "94865a0722de9776",
+  "lastOpenFiles": [
+    "C Plus Plus.md",
+    "基本语法.md"
+  ]
+}

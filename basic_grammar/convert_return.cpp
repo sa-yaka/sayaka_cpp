@@ -1,5 +1,5 @@
 #include <iostream>
-int stonetolb(int); //return_type functionname (paramater type ?)
+int stonetolb(int); // return_type functionname (paramater type ?)
 using namespace std;
 int main()
 {
@@ -11,7 +11,7 @@ int main()
 	cout << pounds << "pounds" << endl;
 }
 
-int stonetolb(int sts)   //return_type functionname (paramater list)
+int stonetolb(int sts) // return_type functionname (paramater list)
 {
 	return 14 * sts; // 返回值 可以是 表达式 数字
 }
