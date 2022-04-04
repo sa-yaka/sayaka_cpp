@@ -1,3 +1,4 @@
+#include <ios>
 #include <iostream>
 using namespace std;
 int main()
@@ -12,7 +13,7 @@ int main()
     cout << "value = " << *pt << ": location = " << pt << endl;
     double *pd = new double;
     *pd = 10000001.0;
-
+    cout.setf(ios_base::fixed);
     cout << "double ";
     cout << "value = " << *pd << ": location = " << pd << endl;
     cout << "location of pointer pd: " << &pd << endl;
