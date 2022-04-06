@@ -10,12 +10,11 @@ struct inflatable
 
 int main()
 {
-    inflatable bouqute =
-        {
-            "sumflowers",
-            0.20,
-            12.49,
-        };
+    inflatable bouqute = {
+        "sumflowers",
+        0.20,
+        12.49,
+    };
     inflatable choice;
     cout << "bouqute: " << bouqute.name << " for $";
     cout << bouqute.price << endl;
@@ -25,8 +24,3 @@ int main()
     cout << choice.price << endl;
     return 0;
 }
-
-
-
-
-

@@ -1,6 +1,6 @@
+#include <cstring>
 #include <iostream>
 #include <string>
-#include <cstring>
 using namespace std;
 
 union Data  // 只能存储一种类型的值
