@@ -13,7 +13,6 @@ int main() {
     }
     std::cin.get(ch);
     std::cout << "\nPlease excuse the slight confusion.\n";
-
-    return 0;
   }
+  return 0;
 }
