@@ -7,7 +7,7 @@ const char FINISHED[] = "done";
 int main() {
   string words;
   int counter = 0;
-  cout << "Enter words (to stop, type the word donr):" << endl;
+  cout << "Enter words (to stop, type the word done):" << endl;
   while (words != FINISHED) {
     cin >> words;
     cin.get();

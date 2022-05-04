@@ -6,3 +6,4 @@ Language: Cpp
 IndentWidth: 2
 DerivePointerAlignment: false
 PointerAlignment: Right
+AllowShortFunctionsOnASingleLine: Inline
