@@ -1,3 +1,4 @@
 {
-    "diffEditor.codeLens": false
+    "diffEditor.codeLens": false,
+    "commentTranslate.hover.enabled": true
 }
